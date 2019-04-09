@@ -1,0 +1,7 @@
+D:\18.11.2310\LatihanClassdanObject\LatihanClassdanObject\bin\Debug\LatihanClassdanObject.exe.config
+D:\18.11.2310\LatihanClassdanObject\LatihanClassdanObject\bin\Debug\LatihanClassdanObject.exe
+D:\18.11.2310\LatihanClassdanObject\LatihanClassdanObject\bin\Debug\LatihanClassdanObject.pdb
+D:\18.11.2310\LatihanClassdanObject\LatihanClassdanObject\obj\Debug\LatihanClassdanObject.csprojAssemblyReference.cache
+D:\18.11.2310\LatihanClassdanObject\LatihanClassdanObject\obj\Debug\LatihanClassdanObject.csproj.CoreCompileInputs.cache
+D:\18.11.2310\LatihanClassdanObject\LatihanClassdanObject\obj\Debug\LatihanClassdanObject.exe
+D:\18.11.2310\LatihanClassdanObject\LatihanClassdanObject\obj\Debug\LatihanClassdanObject.pdb
